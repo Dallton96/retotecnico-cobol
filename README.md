@@ -11,11 +11,12 @@ pip install pandas
 ```
 
 ### Ejecución del Programa
-Guarda el archivo de transacciones en formato CSV y ejecuta el script de Python con:
+Guarda el archivo de transacciones en formato CSV en la misma ruta dónde tienes tu archivo `retotecnico-cobol.py`.
+Donde `retotecnico-cobol.py` es el nombre del archivo que contiene el código.
+Edita el archivo `retotecnico-cobol.py` y en la línea 3 coloca el nombre de tu archivo CSV, posteriormente guárdalo y ejecuta el script de Python con:
 ```sh
-python script.py
+python retotecnico-cobol.py
 ```
-Donde `script.py` es el nombre del archivo que contiene el código.
 
 ## Enfoque y Solución
 El código sigue estos pasos:
