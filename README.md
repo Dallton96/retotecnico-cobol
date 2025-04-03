@@ -34,6 +34,6 @@ El código sigue estos pasos:
 ```
 ### Descripción de Archivos
 
-`reporte.csv`: Archivo de entrada con la lista de transacciones.
-`script.py`: Contiene la lógica de análisis de transacciones.
-`README.md`: Documento con instrucciones sobre el uso del proyecto.
+- `reporte.csv`: Archivo de entrada con la lista de transacciones.
+- `script.py`: Contiene la lógica de análisis de transacciones.
+- `README.md`: Documento con instrucciones sobre el uso del proyecto.
